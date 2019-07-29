@@ -1,0 +1,13 @@
+Package: measles.katanga
+Title: Code accompanying the manuscript "The impact of reactive mass vaccination campaigns on measles outbreaks in the Katanga region, Democratic Republic of Congo" (doi:10.1101/201574).
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sebastian",
+           family = "Funk",
+           role = c("aut", "cre"),
+           email = "sebastian.funk@lshtm.ac.uk")
+Description: Contains all the code and data required to generate the figures and tables in the manuscript.
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
