@@ -7,9 +7,28 @@ Authors@R:
            role = c("aut", "cre"),
            email = "sebastian.funk@lshtm.ac.uk")
 Description: Contains all the code and data required to generate the figures and tables in the manuscript.
+Depends:
+    R (>= 3.5.0),
+    MASS,
+    cowplot,
+    dplyr,
+    ggplot2,
+    ggrepel,
+    gpuR,
+    lubridate,
+    lwgeom,
+    magrittr,
+    purrr,
+    rbi,
+    rbi.helpers,
+    scales,
+    sf,
+    tibble,
+    tidyr
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/sbfnk/measles.katanga
 BugReports: https://github.com/sbfnk/measles.katanga/issues
+RoxygenNote: 6.1.1
