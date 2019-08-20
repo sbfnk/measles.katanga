@@ -48,8 +48,8 @@ Figure 6 uses the outputs from the dynamic model. These are included in
 the model as `libbi` objects which can be retrieved using.
 
 ``` r
-posterior <- rbi::read_libbi("inst/bi/posterior.rds")
-posterior_no_mvc <- rbi::read_libbi("inst/bi/posterior_no_mvc.rds")
+posterior <- rbi::read_libbi(system.file(package="measles.katanga", file.path("bi", "inst/bi/posterior.rds")))
+posterior_no_mvc <- rbi::read_libbi(system.file(package="measles.katanga", file.path("bi", "inst/bi/posterior_no_mvc.rds")))
 ```
 
 The two variables `posterior` and `posterior_no_mvc` then contain
