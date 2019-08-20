@@ -7,9 +7,10 @@ This repository contains the data and code for our paper:
 
 > Sebastian Funk, Saki Takahashi, Joel Hellewell, Kartini Gadroen,
 > Isidro Carrion-Martin, Marit van Lenthe, Katiana Rivette, Sebastian
-> Dietrich, W. John Edmunds, Ruby Siddiqui and V. Bhargavi Rao (). *The
-> impact of reactive mass vaccination campaigns on measles outbreaks in
-> the Katanga region, Democratic Republic of Congo*.
+> Dietrich, W. John Edmunds, Ruby Siddiqui and V. Bhargavi Rao (2019).
+> *The impact of reactive mass vaccination campaigns on measles
+> outbreaks in the Katanga region, Democratic Republic of Congo*.
+> <https://doi.org/10.1101/19003434>
 
 ### How to download or install
 
