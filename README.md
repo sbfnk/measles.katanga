@@ -21,7 +21,7 @@ Or you can install this compendium as an R package, measles.katanga,
 from GitHub with:
 
 ``` r
-# install.packages("devtools")
+# install.packages("remotes")
 remotes::install_github("sbfnk/measles.katanga")
 ```
 
